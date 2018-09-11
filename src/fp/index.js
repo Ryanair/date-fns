@@ -115,8 +115,6 @@ module.exports = {
   getISOWeeksInYear: require('./getISOWeeksInYear/index.js'),
   getISOWeeksInYearWithOptions: require('./getISOWeeksInYearWithOptions/index.js'),
   getISOWeekWithOptions: require('./getISOWeekWithOptions/index.js'),
-  getISOYear: require('./getISOYear/index.js'),
-  getISOYearWithOptions: require('./getISOYearWithOptions/index.js'),
   getMilliseconds: require('./getMilliseconds/index.js'),
   getMillisecondsWithOptions: require('./getMillisecondsWithOptions/index.js'),
   getMinutes: require('./getMinutes/index.js'),
